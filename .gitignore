@@ -1,0 +1,11 @@
+#usr
+data
+data/pixel_reasoner/PixelReasoner_RL_Data/
+data/pixel_reasoner/PixelReasoner_SFT_Data/
+
+verl_0.6.0
+verl-tool-exclude-data.tar.gz
+
+verl_step_records
+verl_tool.egg-info
+output_*
